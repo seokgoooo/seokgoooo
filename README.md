@@ -14,8 +14,6 @@
 ## Web, App, ML & Stocks
 
 ![seokgoooo's github stats](https://github-readme-stats.vercel.app/api?username=seokgoooo&show_icons=true)
-[![seokgoooo's solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=coaffc)](https://solved.ac/coaffc)
-
 
 
 <!--
