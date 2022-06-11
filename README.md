@@ -1,5 +1,5 @@
-# Hi, there 👋 I'm seokgoooo
-![seokgoooo's view](https://komarev.com/ghpvc/?username=seokgoooo)
+# Hi, there 👋 I'm seokgoooo ![seokgoooo's view](https://komarev.com/ghpvc/?username=seokgoooo)
+
 
 ```java
 💬 while(everyDay)
@@ -7,14 +7,14 @@
 ```
 
 ## Languages and Tools
-___
 * JAVA
 
+
+
 ## Web, App, ML & Stocks
-___
 
 ![seokgoooo's github stats](https://github-readme-stats.vercel.app/api?username=seokgoooo&show_icons=true)
-
+[![seokgoooo's solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=seokgoooo)](https://solved.ac/seokgoooo)
 
 
 
