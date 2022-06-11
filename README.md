@@ -1,4 +1,22 @@
-### Hi there 👋
+# Hi, there 👋 I'm seokgoooo
+![seokgoooo's view](https://komarev.com/ghpvc/?username=seokgoooo)
+
+```java
+💬 while(everyDay)
+        나 += 1%;
+```
+
+## Languages and Tools
+___
+* JAVA
+
+## Web, App, ML & Stocks
+___
+
+![seokgoooo's github stats](https://github-readme-stats.vercel.app/api?username=seokgoooo&show_icons=true)
+
+
+
 
 <!--
 **seokgoooo/seokgoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
