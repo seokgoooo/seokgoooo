@@ -7,7 +7,7 @@
 ```
 
 ## Languages and Tools
-* JAVA, Spring, Tomcat
+* JAVA, Spring, MySQL, Tomcat
 
 
 
