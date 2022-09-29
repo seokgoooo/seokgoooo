@@ -7,11 +7,7 @@
 ```
 
 ## Languages and Tools
-* JAVA, Spring, MySQL, Tomcat
-
-
-
-## Web, App, ML & Stocks
+* JAVA, Spring, MySQL
 
 ![seokgoooo's github stats](https://github-readme-stats.vercel.app/api?username=seokgoooo&show_icons=true)
 
