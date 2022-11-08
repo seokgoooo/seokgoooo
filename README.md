@@ -1,4 +1,4 @@
-# 안녕하세요! 👋 개발자입니다.
+# 안녕하세요!
 
 
 ```java
@@ -8,6 +8,7 @@
 
 # Languages and Tools
 * Java 8
+* Typescript
 * HTML
 * CSS
 * Spring Framework
